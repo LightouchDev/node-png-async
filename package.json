@@ -32,12 +32,12 @@
   "homepage": "https://github.com/kanreisa/node-png-async",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-mocha": "^2.0.0",
+    "gulp-mocha": "^4.1.0",
     "gulp-rename": "^1.2.0",
-    "gulp-typescript": "^2.13.6",
-    "merge2": "^0.3.1",
-    "should": "^5.0.1",
-    "typescript": "^1.8.10",
+    "gulp-typescript": "^3.1.6",
+    "merge2": "^1.0.3",
+    "should": "^11.2.1",
+    "typescript": "^2.2.1",
     "typings": "^1.3.2"
   }
 }
